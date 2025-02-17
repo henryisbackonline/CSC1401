@@ -1,0 +1,2 @@
+this='bad'
+print(this)
